@@ -1,16 +1,11 @@
-# meteor-angular-ui-calendar
-Adds angular ui-calendar directive for Meteor. This package is only a wrapper to include all necessary JS and CSS files to the the ui-calendar directive to work.
-
-## Example 
-Here is a showcase how to add the basic functionality into your app controller:
-* https://gist.github.com/dohomi/d0ba6abdb30834fb6bba
-
+# meteor wrap for angular translate
 ## Install
 ```meteor add planet-training:angular-translate```
 ###More packages
-```meteor add planet-training:angular-translate```
-
-### Important
-#### Include FullCalendar if the source is missing in your app:
-
-```meteor add planettraining:jquery-fullcalendar```
+```meteor add planet-training:angular-translate-handler-log```
+```meteor add planet-training:angular-translate-interpolation-messageformat```
+```meteor add planet-training:angular-translate-loader-partial```
+```meteor add planet-training:angular-translate-loader-static-files```
+```meteor add planet-training:angular-translate-loader-url```
+```meteor add planet-training:angular-translate-storage-cookie```
+```meteor add planet-training:angular-translate-storage-local```
