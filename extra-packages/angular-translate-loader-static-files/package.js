@@ -1,11 +1,11 @@
-var version = "2.7.0";
+var version = "2.7.2";
 var name = "angular-translate-loader-static-files";
 Package.describe({
   documentation: null,
   summary: "Angular Translate",
   name: "planettraining:"+name,
   version: version,
-  git:"https://github.com/planet-training/angular-translate.git"
+  git:"https://github.com/planet-training/meteor-angular-translate.git"
 });
 
 
