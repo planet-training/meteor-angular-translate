@@ -15,6 +15,6 @@ Package.onUse(function (api) {
   api.use("planettraining:angular-translate@"+version, "client");
 
   api.addFiles([
-    '../../angular-translate/dist/'+name+'/'+name+'.js'
+    'angular-translate/dist/'+name+'/'+name+'.js'
   ], "client");
 });

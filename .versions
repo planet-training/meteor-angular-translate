@@ -1,4 +1,4 @@
 angular:angular@1.3.15_1
-meteor@1.1.6
-planettraining:angular-translate@2.7.2
-underscore@1.0.3
+meteor@1.1.7
+planettraining:angular-translate@2.8.0
+underscore@1.0.4

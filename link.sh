@@ -1,31 +1,29 @@
 #!/bin/sh
 
-#meteor publish
-
 pushd extra-packages/angular-translate-handler-log
-meteor publish
+ln -s ../../angular-translate angular-translate
 popd
 
 pushd extra-packages/angular-translate-interpolation-messageformat
-meteor publish
+ln -s ../../angular-translate angular-translate
 popd
 
 pushd extra-packages/angular-translate-loader-partial
-meteor publish
+ln -s ../../angular-translate angular-translate
 popd
 
 pushd extra-packages/angular-translate-loader-static-files
-meteor publish
+ln -s ../../angular-translate angular-translate
 popd
 
 pushd extra-packages/angular-translate-loader-url
-meteor publish
+ln -s ../../angular-translate angular-translate
 popd
 
 pushd extra-packages/angular-translate-storage-cookie
-meteor publish
+ln -s ../../angular-translate angular-translate
 popd
 
 pushd extra-packages/angular-translate-storage-local
-meteor publish
+ln -s ../../angular-translate angular-translate
 popd
