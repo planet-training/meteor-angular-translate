@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#meteor publish
+meteor publish
 
 pushd extra-packages/angular-translate-handler-log
 meteor publish
