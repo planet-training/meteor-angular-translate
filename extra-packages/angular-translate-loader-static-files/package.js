@@ -1,4 +1,4 @@
-var version = "2.8.0";
+var version = "2.8.1";
 var name = "angular-translate-loader-static-files";
 Package.describe({
   documentation: null,

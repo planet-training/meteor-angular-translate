@@ -1,4 +1,4 @@
-var version = "2.8.0";
+var version = "2.8.1";
 var name = "angular-translate-storage-cookie";
 Package.describe({
   documentation: null,

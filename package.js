@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Angular Translate",
   name: "planettraining:angular-translate",
-  version: "2.8.0",
+  version: "2.8.1",
   git:"https://github.com/planet-training/meteor-angular-translate.git"
 });
 
