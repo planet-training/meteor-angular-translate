@@ -1,4 +1,4 @@
-var version = "2.8.1";
+var version = "2.9.0";
 var name = "angular-translate-loader-partial";
 Package.describe({
   documentation: null,
