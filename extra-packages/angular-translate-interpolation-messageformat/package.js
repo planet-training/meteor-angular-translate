@@ -1,4 +1,4 @@
-var version = "2.9.0";
+var version = "2.10.0";
 var name = "angular-translate-interpolation-messageformat";
 Package.describe({
   documentation: null,
